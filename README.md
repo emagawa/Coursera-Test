@@ -1,2 +1,2 @@
-# Coursera-Test-pro
+# Coursera-Test-Pro
 Coursera Test Repository
